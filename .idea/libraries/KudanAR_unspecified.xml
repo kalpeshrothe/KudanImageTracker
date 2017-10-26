@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="KudanAR-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Marker-Basics-Android-master/KudanAR/unspecified/jars/libs/cardboard.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Marker-Basics-Android-master/KudanAR/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Marker-Basics-Android-master/KudanAR/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
